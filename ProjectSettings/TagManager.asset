@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: DownEffects
+    uniqueID: 2748619189
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UpEffects
+    uniqueID: 3024378051
+    locked: 0
+  - name: UI
+    uniqueID: 2103573697
     locked: 0
